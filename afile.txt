@@ -5,6 +5,8 @@ line 3
 line 4
 line 5
 v1 changes developer 2
+developer 2 new line 3
+developer 2 new line 4
 line 6
 line 7
 line 8
